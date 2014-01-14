@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirstGame</key>
+	<true/>
+	<key>UsernameSaved</key>
+	<false/>
+	<key>Username</key>
+	<string>PLAYER</string>
+	<key>PromptPause</key>
+	<integer>1</integer>
+	<key>DefaultScore</key>
+	<integer>1000</integer>
+	<key>DefaultUsername</key>
+	<string>PLAYER</string>
+	<key>TotalAsteroidsDestroyed</key>
+	<integer>0</integer>
+	<key>LastScorePoints</key>
+	<integer>0</integer>
+	<key>LastScoreRank</key>
+	<integer>0</integer>
+</dict>
+</plist>
