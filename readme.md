@@ -10,7 +10,7 @@ Any questions, contact me on [Twitter](http://www.twitter.com/rikschennink).
 
 
 #### Notes
-I've removed the Audio due to copyright, also I've removed the icons. All other graphics are in there but are not to be used in any other commercial projects (see the license below).
+I've removed the Audio due to copyright, also I've removed the icons. All other graphics are in there and are not to be used in any other commercial projects (see the license below).
 
 
 #### License
