@@ -1,6 +1,6 @@
 ![alt tag](http://eveofimpact.com/static/img/header.png)
 
-####Snoop around, have some fun!
+#### Snoop around, have some fun!
 
 I had never written a line of Objective-C or OpenGL in my life before this adventure so it might not all be up to standards.
 
